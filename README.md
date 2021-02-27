@@ -1,2 +1,2 @@
 # Hello-World
-#Hello Europe, Asia,et c.
+#Hello Europe, Asia, Americas, et c.
